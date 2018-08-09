@@ -1,7 +1,7 @@
 {
   "name": "audits",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "An Audit App",
   "author": "Gavin Rice",
   "private": true,
   "scripts": {
